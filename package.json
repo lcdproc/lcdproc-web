@@ -71,7 +71,9 @@
     "webpack-hot-middleware": "^2.10.0"
   },
   "devDependencies": {
+    "react-icons": "^2.2.1",
     "rebass": "^0.3.0",
+    "reflexbox": "^1.1.4",
     "stylus": "~0.54.5"
   }
 }
